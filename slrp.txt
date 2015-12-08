@@ -1,0 +1,7 @@
+"slrp"
+{
+	"base"			"sandbox"
+	"title"			"SeriouslyLight RP"
+	"maps"			“rp_”
+	"menusystem"	"1"
+}
