@@ -70,7 +70,7 @@ local system = {};
 --FNAME needs to be equal to the folder name.
 system.FNAME = "overrideme";
 system.NAME = "overrideme";
-system.DIR = SLRP.DIR .. system.FNAME;
+system.DIR = SLRP.DIR .. "/" .. system.FNAME;
 
 --This is the basic loading function for the systems.
 
