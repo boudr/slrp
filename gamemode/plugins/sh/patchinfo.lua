@@ -1,7 +1,7 @@
 if CLIENT then
 	--Written for patch information
 
-	local PATCHURL = "http://bboudreaux00.github.io/slrp";
+	local PATCHURL = "http://ceeit0.github.io/slrp/";
 	 
 	local function PATCHMenu()
 
