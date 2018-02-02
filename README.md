@@ -1,5 +1,5 @@
 #SeriouslyLight RP
 
-This is a really old attempt at re-creating a very light, http request based rp framework for Gmod. Do what ye will with it.
+This is a really old attempt at re-creating a very light roleplay framework. Currently being worked on in a private repo. Will repost one day.
 
 
